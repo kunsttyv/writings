@@ -78,7 +78,7 @@
 1995 _The White Balloon_ / Jafar Panahi  
 1996 _A Moment of Innocence_ / Mohsen Makhmalbaf  
 1997 _Taste of Cherry_ / Abbas Kiarostami  
-1998 _The Red Line_ / Terrence Malick  
+1998 _The Thin Red Line_ / Terrence Malick  
 1999 _Beau Travail_ / Claire Denis  
 2000 _No Quarto da Vanda_ / Perdo Costa  
 2001 _Der schöne Tag_ / Thomas Arslan  
