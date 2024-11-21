@@ -1,21 +1,21 @@
-### 100+ favorite movies, 1 per year, max 3 per director
+### One Hundred Years of Celluloid
 
 1920 _Das Cabinet des Dr. Caligari_ / Robert Wiene  
 1921 _Körkarlen_ / Victor Sjöström  
 1922 _Häxan_ / Benjamin Christensen  
 1923 _Cœur fidèle_ / Jean Epstein  
-1924 _Sherlock, Jr._ / Buster Keaton  
+1924 _Entr'acte_ / René Clair  
 1925 _Strike_ / Sergei Eisenstein  
 1926 _Ménilmontant_ / Dimitri Kirsanoff  
-1927 _Sunrise: A Song of Two Humans_ / F. W. Murnau  
+1927 _Sunrise_ / F. W. Murnau  
 1928 _La passion de Jeanne d'Arc_ / Carl Th. Dreyer  
 1929 _Man with a Movie Camera_ / Dziga Vertov  
 1930 _Earth_ / Alexander Dovzhenko  
-1931  
+1931 _M_ / Fritz Lang  
 1932 _Trouble in Paradise_ / Ernst Lubitsch  
 1933 _Design for Living_ / Ernst Lubitsch  
 1934 _Dos monjes_ / Juan Bustillo Oro  
-1935  
+1935 _Vibración de Granada_ / José Val del Omar  
 1936 _The Only Son_ / Ozu Yasujirō  
 1937 _The Awful Truth_ / Leo McCarey  
 1938 _Bringing Up Baby_ / Howard Hawks  
@@ -24,7 +24,7 @@
 1941 _Ball of Fire_ / Howard Hawks  
 1942 _Cat People_ / Jacques Tourneur  
 1943 _Vredens dag_ / Carl Th. Dreyer  
-1944 _María Candelaria (Xochimilco)_ / Emilio Fernández  
+1944 _María Candelaria_ / Emilio Fernández  
 1945 _Les Enfants du Paradis_ / Marcel Carné  
 1946 _A Matter of Life and Death_ / Powell & Pressburger  
 1947 _Black Narcissus_ / Powell & Pressburger  
@@ -33,7 +33,7 @@
 1950 _Los olvidados_ / Luis Buñuel  
 1951 _On Dangerous Ground_ / Nicholas Ray  
 1952 _The Life of Oharu_ / Mizoguchi Kenji  
-1953 _¡Bienvenido, Míster Marshall!_ / Luis García Berlanga  
+1953 _Bienvenido, Míster Marshall_ / Luis García Berlanga  
 1954 _Sound of the Mountain_ / Naruse Mikio  
 1955 _Ordet_ / Carl Th. Dreyer  
 1956 _Mi tío Jacinto_ / Ladislao Vajda  
@@ -55,7 +55,7 @@
 1972 _Lucifer Rising_ / Kenneth Anger  
 1973 _El espíritu de la colmena_ / Víctor Erice  
 1974 _Edvard Munch_ / Peter Watkins  
-1975 _Jeanne Dielman, 23, Quai du Commerce 1080 Bruxelles_ / Chantal Akerman  
+1975 _Jeanne Dielman_ / Chantal Akerman  
 1976 _The Killing of a Chinese Bookie_ / John Cassavetes  
 1977 _De cierta manera_ / Sara Gómez  
 1978 _Killer of Sheep_ / Charles Burnett  
@@ -68,8 +68,8 @@
 1985 _Shoah_ / Claude Lanzmann  
 1986 _Le rayon vert_ / Éric Rohmer  
 1987 _Where is the Friend's House?_ / Abbas Kiarostami  
-1988  
-1989 A City of Sadness / Hou Hsiao-hsien  
+1988 _Ashik Kerib_ / Sergei Parajanov  
+1989 _A City of Sadness_ / Hou Hsiao-hsien  
 1990 _Close-Up_ / Abbas Kiarostami  
 1991 _Van Gogh_ / Maurice Pialat  
 1992 _Hyenas_ / Djibril Diop Mambéty  
@@ -104,3 +104,4 @@
 2021 _Memoria_ / Apichatpong Weerasethakul  
 2022 _De Humani Corporis Fabrica_ / Lucien Castaing-Taylor & Véréna Paravel  
 2023 _About Dry Grasses_ / Nuri Bilge Ceylan  
+2024 _Anora_ / Sean Baker  
