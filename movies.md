@@ -16,20 +16,20 @@
 1933 _Design for Living_ / Ernst Lubitsch  
 1934 _Dos monjes_ / Juan Bustillo Oro  
 1935 _Vibración de Granada_ / José Val del Omar  
-1936 _The Only Son_ / Ozu Yasujirō  
+1936 _The Only Son_ / Ozu Yasujiro  
 1937 _The Awful Truth_ / Leo McCarey  
 1938 _Bringing Up Baby_ / Howard Hawks  
 1939 _La Règle du jeu_ / Jean Renoir  
 1940 _Rebecca_ / Alfred Hitchcock  
 1941 _Ball of Fire_ / Howard Hawks  
-1942 _Cat People_ / Jacques Tourneur  
+1942 _The Ox-Bow Incident_ / William Wellman  
 1943 _Vredens dag_ / Carl Th. Dreyer  
 1944 _María Candelaria_ / Emilio Fernández  
-1945 _Les Enfants du Paradis_ / Marcel Carné  
+1945 _Les Enfants du paradis_ / Marcel Carné  
 1946 _A Matter of Life and Death_ / Powell & Pressburger  
 1947 _Black Narcissus_ / Powell & Pressburger  
 1948 _The Red Shoes_ / Powell & Pressburger  
-1949 _Late Spring_ / Ozu Yasujirō  
+1949 _Late Spring_ / Ozu Yasujiro  
 1950 _Los olvidados_ / Luis Buñuel  
 1951 _On Dangerous Ground_ / Nicholas Ray  
 1952 _The Life of Oharu_ / Mizoguchi Kenji  
@@ -37,7 +37,7 @@
 1954 _Sound of the Mountain_ / Naruse Mikio  
 1955 _Ordet_ / Carl Th. Dreyer  
 1956 _Mi tío Jacinto_ / Ladislao Vajda  
-1957 _Tokyo Twilight_ / Ozu Yasujirō  
+1957 _Tokyo Twilight_ / Ozu Yasujiro  
 1958 _Vertigo_ / Alfred Hitchcock  
 1959 _Pickpocket_ / Robert Bresson  
 1960 _L'Avventura_ / Michelangelo Antonioni  
@@ -50,18 +50,18 @@
 1967 _The Red and the White_ / Miklós Jancsó  
 1968 _Faces_ / John Cassavetes  
 1969 _The Color of Pomegranates_ / Sergei Parajanov  
-1970 _This Transient Life_ / Jissôji Akio  
+1970 _This Transient Life_ / Jissoji Akio  
 1971 _Quatre nuits d'un rêveur_ / Robert Bresson  
 1972 _Lucifer Rising_ / Kenneth Anger  
 1973 _El espíritu de la colmena_ / Víctor Erice  
 1974 _Edvard Munch_ / Peter Watkins  
-1975 _Jeanne Dielman_ / Chantal Akerman  
+1975 _India Song_ / Marguerite Duras  
 1976 _The Killing of a Chinese Bookie_ / John Cassavetes  
 1977 _De cierta manera_ / Sara Gómez  
 1978 _Killer of Sheep_ / Charles Burnett  
 1979 _Arrebato_ / Iván Zulueta  
 1980 _Berlin Alexanderplatz_ / Rainer Werner Fassbinder  
-1981 _Possession_ / Andrzej Żuławski  
+1981 _Possession_ / Andrzej Zulawski  
 1982 _Fanny och Alexander_ / Ingmar Bergman  
 1983 _Our Century_ / Artavazd Peleshian  
 1984 _A Summer at Grandpa's_ / Hou Hsiao-hsien  
