@@ -83,7 +83,7 @@
 2000 _No Quarto da Vanda_ / Perdo Costa  
 2001 _Der schöne Tag_ / Thomas Arslan  
 2002 _Blissfully Yours_ / Apichatpong Weerasethakul  
-2003 _Der Wald vor lauter Bäumen_ / Maren Ade  
+2003 _Où gît votre sourire enfoui?_ / Pedro Costa  
 2004 _Ett hål i mitt hjärta_ / Lukas Moodysson  
 2005 _The Wayward Cloud_ / Tsai Ming-liang  
 2006 _Still Life_ / Jia Zhangke  
