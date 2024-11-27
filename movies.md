@@ -33,7 +33,7 @@
 1950 _Los olvidados_ / Luis Buñuel  
 1951 _On Dangerous Ground_ / Nicholas Ray  
 1952 _The Life of Oharu_ / Mizoguchi Kenji  
-1953 _Bienvenido, Míster Marshall_ / Luis García Berlanga  
+1953 _Bienvenido Míster Marshall_ / Luis García Berlanga  
 1954 _Sound of the Mountain_ / Naruse Mikio  
 1955 _Ordet_ / Carl Th. Dreyer  
 1956 _Mi tío Jacinto_ / Ladislao Vajda  
@@ -49,7 +49,7 @@
 1966 _Andrei Rublev_ / Andrei Tarkovsky  
 1967 _The Red and the White_ / Miklós Jancsó  
 1968 _Faces_ / John Cassavetes  
-1969 _The Color of Pomegranates_ / Sergei Parajanov  
+1969 _Sayat-Nova_ / Sergei Parajanov  
 1970 _This Transient Life_ / Jissoji Akio  
 1971 _Quatre nuits d'un rêveur_ / Robert Bresson  
 1972 _Lucifer Rising_ / Kenneth Anger  
